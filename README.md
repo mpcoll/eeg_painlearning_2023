@@ -1,8 +1,7 @@
-# eeg_painlearning_2023
-Code for Coll et al., 2023 EEG pain learning experiment
+# Code for Coll et al., 2023 EEG pain learning experiment
 
 
-## REQUIREMENTS
+## Requirements
 * Python environment created from requirements.txt
 * R environment with lme4
 
@@ -10,3 +9,7 @@ Code for Coll et al., 2023 EEG pain learning experiment
 * PSPM
 * VBA toolbox
 * HGF toolbox
+
+
+## Reproduce results and figures
+* Run painlearning_run_all.sh or the individual scripts with the same order as in this file
