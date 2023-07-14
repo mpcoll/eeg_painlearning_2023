@@ -13,4 +13,5 @@ Matlab with these tooloboxes:
 
 
 ## Reproduce results and figures
-* Run *painlearning_run_all.sh* or the individual scripts with the same order as in this file
+* Run *painlearning_run_all.sh* or the individual scripts in the same order as in this file
+* BIDS formatted data to reproduce the analyses available on request
