@@ -5,10 +5,11 @@
 * Python environment created from *requirements.txt*
 * R environment with lme4
 
-* Matlab with search path including:
-* PSPM
-* VBA toolbox
-* HGF toolbox
+Matlab with working install of:
+* PSPM v4.02 (https://pspm.sourceforge.net/)
+* VBA toolbox (https://mbb-team.github.io/VBA-toolbox/)
+* HGF toolbox (https://github.com/translationalneuromodeling/tapas/blob/master/HGF)
+* Mediation toolbox (https://github.com/canlab/MediationToolbox)
 
 
 ## Reproduce results and figures
