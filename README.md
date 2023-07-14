@@ -2,7 +2,7 @@
 
 
 ## Requirements
-* Python environment created from requirements.txt
+* Python environment created from *requirements.txt*
 * R environment with lme4
 
 * Matlab with search path including:
@@ -12,4 +12,4 @@
 
 
 ## Reproduce results and figures
-* Run painlearning_run_all.sh or the individual scripts with the same order as in this file
+* Run *painlearning_run_all.sh* or the individual scripts with the same order as in this file
